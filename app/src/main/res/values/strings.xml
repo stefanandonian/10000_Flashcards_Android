@@ -1,0 +1,8 @@
+<resources>
+
+    <!-- Android Defaults -->
+    <string name="app_name">10000 Spanish Flash Cards</string>
+
+    <!-- List Item -->
+    <string name="list_item_title">Palabra</string>
+</resources>
