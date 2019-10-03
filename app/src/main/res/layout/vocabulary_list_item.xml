@@ -4,14 +4,14 @@
     android:layout_height="50dp">
 
     <ImageView
-        android:id="@+id/gridItemImageView"
+        android:id="@+id/listItemImageView"
         android:layout_width="50dp"
         android:layout_height="50dp"
         android:scaleType="centerCrop"
         android:background="@color/colorAccent" />
 
     <TextView
-        android:id="@+id/gridItemTextView"
+        android:id="@+id/listItemTextView"
         android:layout_width="50dp"
         android:layout_height="50dp"
         android:layout_gravity="center"
