@@ -1,5 +1,5 @@
 package mexico.view.model
 
-import java.net.URL
+import android.net.Uri
 
-data class Palabra(val lemma: String, val iconUrl: URL)
+data class Palabra(val lemma: String, val iconUrl: Uri)
